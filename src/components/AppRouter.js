@@ -2,9 +2,7 @@ import React from 'react';
 import Post from "./header/pages/Post";
 import About from "./header/pages/About";
 import ContactUs from "./header/pages/ContactUs";
-import BrowserRouter from "react-router-dom/BrowserRouter";
-import Route from "react-router-dom/Route";
-import Switch from "react-router-dom/Switch"
+import {BrowserRouter, Route, Switch} from "react-router-dom";
 import Home from "./header/pages/Home";
 import Header from "./header/Header";
 
