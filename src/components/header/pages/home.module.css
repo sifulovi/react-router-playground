@@ -1,0 +1,40 @@
+.content {
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.bio {
+    width: 50%;
+}
+
+.bio p {
+    font-family: "Lucida Console";
+    font-size: 18px;
+    line-height: 30px;
+    color: black;
+    text-align: left;
+}
+
+.images {
+}
+
+.images img {
+    width: 350px;
+    height: 400px
+}
+
+.heading1 {
+    font-family: "Sitka Text", serif;
+    font-size: 50px;
+    color: green;
+}
+
+.heading2 {
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: blueviolet;
+}

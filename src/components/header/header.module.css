@@ -1,0 +1,40 @@
+.navContainer {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.menu a {
+    margin-left: 25px;
+    font-weight: 800;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.logo a {
+    font-weight: 800;
+    font-size: 25px;
+    font-family: Cambria, serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.get_started {
+    border-radius: 5px;
+    padding: 8px;
+    color: white;
+    font-family: serif;
+    font-size: 15px !important;
+    background: blueviolet;
+}
